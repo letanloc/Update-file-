@@ -1,0 +1,22 @@
+{
+  "name": "server",
+  "version": "0.0.1",
+  "description": "npm introduction",
+  "main": "app.js",
+  "script": {
+    "test": "echo \" error \"",
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "consolidate": "~0.9.1",
+    "express": "~3.2.6",
+    "mongodb": "1.4.5",
+    "muler": "^1.1.1",
+    "mysql": "^2.5.4",
+    "node-base64-image": "^0.1.2"
+  },
+  "author": "loc",
+  "license": "BSD"
+}
+// npm i -g get-folder-size
+// npm install get-folder-size
